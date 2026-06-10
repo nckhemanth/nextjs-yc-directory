@@ -4,8 +4,8 @@ export const fixtureAuthor: Author = {
   _id: 'author-hemanth',
   githubId: 'fixture-github',
   name: 'Hemanth Reddy',
-  username: 'nckhemanth0',
-  image: 'https://github.com/nckhemanth0.png',
+  username: 'nckhemanth',
+  image: 'https://github.com/nckhemanth.png',
   bio: 'Backend, cloud, and AI engineering learner building portfolio-grade systems.',
 }
 

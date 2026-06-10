@@ -62,4 +62,4 @@ MIT
 
 ## Connect
 
-GitHub: [@nckhemanth0](https://github.com/nckhemanth0)
+GitHub: [@nckhemanth](https://github.com/nckhemanth)
