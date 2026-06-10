@@ -1,9 +1,6 @@
 # Next.js YC Directory Project
 
-This repo is the project companion to the separate **`Next.js` field-guide repo**.
-
-It contains the app-oriented code structure for a YC Directory style startup
-pitch application:
+YC Directory style startup pitch application built with the Next.js App Router.
 
 - App Router pages and route groups.
 - GitHub auth configuration with author creation hooks.
@@ -24,15 +21,6 @@ npm run dev
 The app has fixture fallbacks so it can typecheck and render without real Sanity
 credentials. Real auth, writes, and AI calls require `.env.local` based on
 `.env.example`.
-
-## Repos
-
-| Repo | Purpose |
-|---|---|
-| `Next.js` | Theory, interview prep, explanations, labs |
-| `nextjs-yc-directory` | Project code and implementation shape |
-| `workspace/next-docs` | Workspace docs viewer for the theory repo |
-| `workspace/nextjs-yc-docs` | Workspace docs viewer for this project repo |
 
 ## Core Route Tree
 
@@ -67,4 +55,3 @@ app/
 
 Do not keep `ignoreBuildErrors` or `ignoreDuringBuilds` as a default. This
 project is meant to typecheck cleanly.
-

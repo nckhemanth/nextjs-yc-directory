@@ -1,6 +1,6 @@
 # Route Tree
 
-This repo is the application code companion to the `Next.js` learning repo.
+This route tree shows the application structure used by the YC Directory app.
 
 ```txt
 app/
@@ -43,4 +43,3 @@ app/
 5. `components/startup-form.tsx`
 6. `lib/actions.ts`
 7. `app/api/ai/pitch-analysis/route.ts`
-
