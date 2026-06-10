@@ -55,3 +55,11 @@ app/
 
 Do not keep `ignoreBuildErrors` or `ignoreDuringBuilds` as a default. This
 project is meant to typecheck cleanly.
+
+## License
+
+MIT
+
+## Connect
+
+GitHub: [@nckhemanth0](https://github.com/nckhemanth0)
